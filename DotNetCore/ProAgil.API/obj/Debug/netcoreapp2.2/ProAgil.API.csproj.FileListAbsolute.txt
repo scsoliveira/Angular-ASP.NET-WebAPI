@@ -1,0 +1,14 @@
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.deps.json
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.runtimeconfig.json
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.runtimeconfig.dev.json
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.dll
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.pdb
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.csprojAssemblyReference.cache
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.RazorAssemblyInfo.cache
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.RazorAssemblyInfo.cs
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.AssemblyInfo.cs
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.RazorTargetAssemblyInfo.cache
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.dll
+/home/samuel/Documentos/Curso .NET/DotNetCore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.pdb
